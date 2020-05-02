@@ -15,9 +15,9 @@ navbar-links:
   About: "about"
   Resources:
     - Daily Bread: "https://beautifuljekyll.com"
-    - Shiny Server: "www.parkeroakes.io/shiny"
-    - Rstudio Server: "www.parkeroakes.io/rstudio"
-  Author's home: "www.parkeroakes.io"
+    - Shiny Server: "http://www.parkeroakes.io/shiny/"
+    - Rstudio Server: "http://www.parkeroakes.io/rstudio/"
+  Author's home: "http://www.parkeroakes.io/"
 
 # --- Logo --- #
 
